@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.automationShell.osx": "",
+  "terminal.integrated.automationShell.linux": "",
+  "terminal.integrated.shell.osx": "/bin/zsh"
+
+}
